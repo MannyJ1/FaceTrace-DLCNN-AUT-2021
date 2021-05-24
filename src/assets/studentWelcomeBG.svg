@@ -1,0 +1,17 @@
+<svg id="Component_2_1" data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="493" viewBox="0 0 1920 493">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.01" y1="0.5" x2="1.026" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6153f1"/>
+      <stop offset="1" stop-color="#a49cff"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_4223" data-name="Rectangle 4223" width="1920" height="493" fill="url(#linear-gradient)"/>
+  <rect id="Rectangle_4303" data-name="Rectangle 4303" width="156" height="156" rx="10" transform="translate(1485 202)" fill="#fff" opacity="0.2"/>
+  <rect id="Rectangle_4304" data-name="Rectangle 4304" width="156" height="156" rx="10" transform="translate(1592 128)" fill="#fff" opacity="0.2"/>
+  <path id="Rectangle_4305" data-name="Rectangle 4305" d="M10,0h90a0,0,0,0,1,0,0V88a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(1820 405)" fill="#fff" opacity="0.2"/>
+  <rect id="Rectangle_4306" data-name="Rectangle 4306" width="100" height="99" rx="10" transform="translate(1770 341)" fill="#fff" opacity="0.2"/>
+  <rect id="Rectangle_4307" data-name="Rectangle 4307" width="197" height="196" rx="10" transform="translate(181 237)" fill="#fff" opacity="0.2"/>
+  <rect id="Rectangle_4308" data-name="Rectangle 4308" width="197" height="196" rx="10" transform="translate(47 145)" fill="#fff" opacity="0.2"/>
+  <path id="Rectangle_4309" data-name="Rectangle 4309" d="M0,0H36A10,10,0,0,1,46,10V47a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0 446)" fill="#fff" opacity="0.2"/>
+  <rect id="Rectangle_4310" data-name="Rectangle 4310" width="64" height="64" rx="10" transform="translate(14 405)" fill="#fff" opacity="0.2"/>
+</svg>

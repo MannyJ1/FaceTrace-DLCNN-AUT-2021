@@ -1,0 +1,11 @@
+.container {
+  flex-direction: row;
+}
+
+#dataset {
+  display: flex;
+}
+
+#imageDiv {
+  justify-content: right;
+}
