@@ -113,7 +113,8 @@ const StartTracing = () => {
                 type="file"
                 className="image-input"
                 id="imageField"
-                accept="image/*"
+                // accept="image/*"
+                accept=".png, .jpg, .jpeg"
                 onChange={(e) => captureFile(e)}
               />
             </div>
