@@ -188,3 +188,14 @@
     left:0;
   }
 
+  .buttonsFlex {
+    display: inline-flex;
+    flex-direction: row;
+    
+  }
+
+  /* .buttonsFlex > div {
+    margin-left: 50px;
+    
+  } */
+
